@@ -20,7 +20,7 @@ st.set_page_config(
 # reach_ids = pd.read_csv('reach_ids.csv')
 try:
     # Make sure the file path is correct
-    df = pd.read_csv('data/nwis_sites1.csv')
+    df = pd.read_csv('data/nwis_sites1.csv', low_memory=False)
     # st.write(df)
 except FileNotFoundError:
     st.error("File not found. Please check the file path.")
