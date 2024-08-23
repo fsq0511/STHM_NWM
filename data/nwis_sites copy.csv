@@ -1,0 +1,94 @@
+"";"site_no";"station_nm";"dec_lat_va";"dec_long_va";"huc_cd";"drain_area_va";"basintype";"colors";"siteNumbers";"siteNumber"
+"1";"01010000";"St. John River at Ninemile Bridge, Maine";46,70055556;-69,7155556;"01010001";1341;"coastal";"red";1010000;1010000
+"2";"01010070";"Big Black River near Depot Mtn, Maine";46,89388889;-69,7516667;"01010001";171;"coastal";"red";1010070;1010070
+"3";"01010500";"St. John River at Dickey, Maine";47,11305556;-69,0880556;"01010001";2680;"coastal";"red";1010500;1010500
+"4";"01011000";"Allagash River near Allagash, Maine";47,0697222;-69,0794444;"01010002";1478;"coastal";"red";1011000;1011000
+"5";"01011500";"St. Francis River near Connors, New Brunswick";47,20697926;-68,9564281;NA;524;"coastal";"red";1011500;1011500
+"6";"01013500";"Fish River near Fort Kent, Maine";47,2375;-68,58277778;"01010003";873;"coastal";"green";1013500;1013500
+"7";"01014000";"St. John River below Fish R, nr Fort Kent, Maine";47,2833333;-68,58527778;"01010001";5929;"coastal";"red";1014000;1014000
+"8";"01015800";"Aroostook River near Masardis, Maine";46,52305556;-68,3716667;"01010004";892;"controlled";"red";1015800;1015800
+"9";"01017000";"Aroostook River at Washburn, Maine";46,7772222;-68,1572222;"01010004";1654;"controlled";"red";1017000;1017000
+"10";"01017060";"Hardwood Brook below Glidden Brk nr Caribou, Maine";46,7836111;-67,9891667;"01010004";5,7;"controlled";"red";1017060;1017060
+"11";"01017290";"Little Madawaska River at Caribou, Maine";46,8886111;-67,945;"01010004";234;"controlled";"red";1017290;1017290
+"12";"01017550";"Williams Brook at Phair, Maine";46,62805556;-67,9530556;"01010005";3,82;"controlled";"red";1017550;1017550
+"13";"01017960";"Meduxnekeag R above S Br Medux. R nr Houlton, ME";46,105;-67,88138889;"01010005";88;"coastal";"red";1017960;1017960
+"14";"01018000";"Meduxnekeag River near Houlton, Maine";46,105;-67,8666667;"01010005";175;"coastal";"red";1018000;1018000
+"15";"01018009";"Pearce Brook at Route 1 at Houlton, Maine";46,11527778;-67,84027778;"01010005";7,99;"coastal";"red";1018009;1018009
+"16";"01018035";"Meduxnekeag River at Lowery Rd. nr Houlton, Maine";46,1811111;-67,80388889;"01010005";257;"coastal";"red";1018035;1018035
+"17";"01018500";"St. Croix River at Vanceboro, Maine";45,5683333;-67,4283333;"01050001";413;"coastal";"red";1018500;1018500
+"18";"01019000";"Grand Lake Stream at Grand Lake Stream, Maine";45,1725;-67,76888889;"01050001";228,3;"coastal";"red";1019000;1019000
+"19";"01021000";"St. Croix River at Baring, Maine";45,1369444;-67,3180556;"01050001";1374;"coastal";"red";1021000;1021000
+"20";"01021470";"Libby Brook near Northfield, Maine";44,8008333;-67,725;"01050002";7,79;"coastal";"red";1021470;1021470
+"21";"01021480";"Old Stream near Wesley, Maine";44,9369444;-67,7361111;"01050002";29,1;"coastal";"red";1021480;1021480
+"22";"01022294";"East Br Bear Brook near Beddington, Maine";44,85909167;-68,10396389;"01050002";0,042;"coastal";"red";1022294;1022294
+"23";"01022500";"Narraguagus River at Cherryfield, Maine";44,60805556;-67,93527778;"01050002";227;"coastal";"green";1022500;1022500
+"24";"01022840";"Otter Creek near Bar Harbor, Maine";44,33277778;-68,2066667;"01050002";1,35;"coastal";"red";1022840;1022840
+"25";"01027200";"North Branch Penobscot River nr Pittston Farm, ME";45,93527778;-69,9936111;"01020001";232;"coastal";"red";1027200;1027200
+"26";"01029200";"Seboeis River near Shin Pond, Maine";46,14305556;-68,6336111;"01020002";173;"controlled";"red";1029200;1029200
+"27";"01029500";"East Branch Penobscot River at Grindstone, Maine";45,73027778;-68,5894444;"01020002";837;"coastal";"red";1029500;1029500
+"28";"01030350";"Wytopitlock Stream near Wytopitlock Maine";45,7086111;-68,1580556;"01020003";48,8;"coastal";"red";1030350;1030350
+"29";"01030500";"Mattawamkeag River near Mattawamkeag, Maine";45,5011111;-68,3058333;"01020003";1418;"coastal";"green";1030500;1030500
+"30";"01031300";"Piscataquis River at Blanchard, Maine";45,2672222;-69,58388889;"01020004";118;"coastal";"red";1031300;1031300
+"31";"01031450";"Kingsbury Stream at Abbot Village, Maine";45,1844444;-69,4522222;"01020004";95,4;"coastal";"red";1031450;1031450
+"32";"01031500";"Piscataquis River near Dover-Foxcroft, Maine";45,175;-69,3147222;"01020004";298;"coastal";"green";1031500;1031500
+"33";"01031510";"Black Stream near Dover-Foxcroft, Maine";45,15027778;-69,23638889;"01020004";26;"coastal";"red";1031510;1031510
+"34";"01034000";"Piscataquis River at Medford, Maine";45,26055556;-68,8686111;"01020004";1162;"coastal";"red";1034000;1034000
+"35";"01034500";"Penobscot River at West Enfield, Maine";45,2361111;-68,65138889;"01020005";6422;"coastal";"red";1034500;1034500
+"36";"01037000";"Kenduskeag Stream near Bangor, Maine";44,8611111;-68,8316667;"01020005";196;"coastal";"red";1037000;1037000
+"37";"01037380";"Ducktrap River near Lincolnville, Maine";44,32916667;-69,0608333;"01050002";14,4;"coastal";"red";1037380;1037380
+"38";"01038000";"Sheepscot River at North Whitefield, Maine";44,22277778;-69,59388889;"01050003";145;"coastal";"red";1038000;1038000
+"39";"01042500";"Kennebec River at The Forks, Maine";45,3397222;-69,9619444;"01030001";1590;"controlled";"red";1042500;1042500
+"40";"01043500";"Dead River near Dead River, Maine";45,22905;-70,20112778;"01030002";516;"controlled";"red";1043500;1043500
+"41";"01044550";"Spencer Stream near Grand Falls, Maine";45,3136111;-70,2416667;"01030002";193;"controlled";"red";1044550;1044550
+"42";"01046000";"Austin Stream at Bingham, Maine";45,0644444;-69,8805556;"01030003";90;"coastal";"red";1046000;1046000
+"43";"01046500";"Kennebec River at Bingham, Maine";45,0519444;-69,8855556;"01030003";2715;"coastal";"red";1046500;1046500
+"44";"01047000";"Carrabassett River near North Anson, Maine";44,86916667;-69,955;"01030003";353;"coastal";"green";1047000;1047000
+"45";"01047150";"Kennebec River near Madison, Maine";44,77888889;-69,8869444;"01030003";3245;"coastal";"red";1047150;1047150
+"46";"01047200";"Sandy River near Madrid, Maine";44,85777778;-70,48527778;"01030003";25,3;"coastal";"red";1047200;1047200
+"47";"01048000";"Sandy River near Mercer, Maine";44,70805556;-69,9375;"01030003";516;"coastal";"red";1048000;1048000
+"48";"01048220";"East Branch Wesserunsett Stream near Athens, Maine";44,9475;-69,6569444;"01030003";19,5;"coastal";"red";1048220;1048220
+"49";"01049500";"Cobbosseecontee Stream at Gardiner, Maine";44,22916667;-69,7780556;"01030003";217;"coastal";"red";1049500;1049500
+"50";"01052500";"Diamond River near Wentworth Location, NH";44,8775;-71,0575;"01040001";152;"coastal";"green";1052500;1052500
+"51";"01053500";"Androscoggin River at Errol, NH";44,7825;-71,1286111;"01040001";1046;"controlled";"red";1053500;1053500
+"52";"01053600";"Androscoggin River below Bog Brook at Cambridge NH";44,6661111;-71,18138889;"01040001";1177;"coastal";"red";1053600;1053600
+"53";"01054000";"Androscoggin River near Gorham, NH";44,4358333;-71,19027778;"01040001";1361;"coastal";"red";1054000;1054000
+"54";"01054114";"Peabody River at Gorham, New Hampshire";44,38131944;-71,1706556;"01040002";46,27;"coastal";"red";1054114;1054114
+"55";"01054200";"Wild River at Gilead, Maine";44,39055556;-70,9797222;"01040002";69,6;"coastal";"green";1054200;1054200
+"56";"01054300";"Ellis River at South Andover, Maine";44,5933333;-70,7330556;"01040002";130;"coastal";"red";1054300;1054300
+"57";"01054500";"Androscoggin River at Rumford, Maine";44,5519444;-70,5441667;"01040002";2068;"coastal";"red";1054500;1054500
+"58";"01055000";"Swift River near Roxbury, Maine";44,64277778;-70,58888889;"01040002";96,9;"coastal";"green";1055000;1055000
+"59";"01055500";"Nezinscot River at Turner Center, Maine";44,26944444;-70,2297222;"01040002";169;"coastal";"red";1055500;1055500
+"60";"01057000";"Little Androscoggin River near South Paris, Maine";44,30388889;-70,5397222;"01040002";73,5;"coastal";"green";1057000;1057000
+"61";"01059000";"Androscoggin River near Auburn, Maine";44,0722222;-70,2080556;"01040002";3263;"coastal";"red";1059000;1059000
+"62";"01063310";"Stony Brook at East Sebago, Maine";43,85555556;-70,6397222;"01060001";0,81;"coastal";"red";1063310;1063310
+"63";"01064118";"Presumpscot River at Westbrook, Maine";43,68694444;-70,3472222;"01060001";577;"coastal";"red";1064118;1064118
+"64";"010642505";"SACO RIVER AT RIVER STREET, AT BARTLETT, NH";44,08388889;-71,2855556;"01060002";91;"coastal";"red";10642505;10642505
+"65";"01064500";"Saco River near Conway, NH";43,9908333;-71,0905556;"01060002";385;"coastal";"red";1064500;1064500
+"66";"01064801";"BEARCAMP RIVER AT SOUTH TAMWORTH, NH";43,83007396;-71,2878488;"01060002";67,6;"coastal";"red";1064801;1064801
+"67";"01066000";"Saco River at Cornish, Maine";43,80805556;-70,7816667;"01060002";1293;"coastal";"red";1066000;1066000
+"68";"01067950";"Kennebunk River near Kennebunk, Maine";43,4322222;-70,5533333;"01060003";26,7;"coastal";"red";1067950;1067950
+"69";"01068910";"Mousam River at Route 4 near Sanford, Maine";43,4183333;-70,7380556;"01060003";44,6;"coastal";"red";1068910;1068910
+"70";"01069500";"Mousam River near West Kennebunk, Maine";43,4183333;-70,6583333;"01060003";99;"coastal";"red";1069500;1069500
+"71";"01069700";"Branch Brook near Kennebunk, Maine";43,37916667;-70,5833333;"01060003";10,7;"coastal";"red";1069700;1069700
+"72";"01072800";"COCHECO RIVER NEAR ROCHESTER, NH.";43,26841527;-70,9736739;"01060003";79,9;"coastal";"red";1072800;1072800
+"73";"01072870";"ISINGLASS R AT ROCHESTER NECK RD, NR DOVER, NH";43,23480487;-70,9564507;"01060003";73,6;"coastal";"red";1072870;1072870
+"74";"01073000";"OYSTER RIVER NEAR DURHAM, NH";43,1486955;-70,9650603;"01060003";12,1;"coastal";"green";1073000;1073000
+"75";"01073319";"LAMPREY RIVER AT LANGFORD ROAD, AT RAYMOND, NH";43,04138889;-71,2016667;"01060003";55,7;"coastal";"red";1073319;1073319
+"76";"01073500";"LAMPREY RIVER NEAR NEWMARKET, NH";43,10258558;-70,952559;"01060003";185;"coastal";"red";1073500;1073500
+"77";"010735562";"EXETER RIVER AT ODELL ROAD, NEAR SANDOWN, NH";42,94897557;-71,16478279;"01060003";16,1;"coastal";"red";10735562;10735562
+"78";"01073587";"EXETER RIVER AT HAIGH ROAD, NEAR BRENTWOOD, NH";42,9845316;-71,038392;"01060003";63,5;"coastal";"red";1073587;1073587
+"79";"01073785";"WINNICUT RIVER AT GREENLAND, NR PORTSMOUTH, NH";43,0358333;-70,8475;"01060003";14,1;"coastal";"red";1073785;1073785
+"80";"01074520";"EAST BRANCH PEMIGEWASSET RIVER AT LINCOLN, NH";44,0475669;-71,6598029;"01070001";115;"coastal";"red";1074520;1074520
+"81";"01075000";"PEMIGEWASSET RIVER AT WOODSTOCK, NH";43,9761792;-71,6795244;"01070001";193;"coastal";"red";1075000;1075000
+"82";"01076000";"BAKER RIVER NEAR RUMNEY, NH";43,79562647;-71,8453594;"01070001";143;"coastal";"red";1076000;1076000
+"83";"01076500";"PEMIGEWASSET RIVER AT PLYMOUTH, NH";43,7592388;-71,6856337;"01070001";622;"coastal";"red";1076500;1076500
+"84";"01077400";"COCKERMOUTH RIVER BELOW HARDY BROOK, AT GROTON, NH";43,70388889;-71,8333333;"01070001";21,4;"coastal";"red";1077400;1077400
+"85";"01078000";"SMITH RIVER NEAR BRISTOL, NH";43,56646307;-71,747857;"01070001";85,8;"coastal";"green";1078000;1078000
+"86";"01081000";"WINNIPESAUKEE RIVER AT TILTON, NH";43,44174376;-71,5875752;"01070002";471;"coastal";"red";1081000;1081000
+"87";"01081500";"MERRIMACK RIVER AT FRANKLIN JUNCTION, NH";43,42285456;-71,6528543;"01070002";1507;"coastal";"red";1081500;1081500
+"88";"01082000";"CONTOOCOOK RIVER AT PETERBOROUGH, NH";42,8625837;-71,95924609;"01070003";68,1;"coastal";"red";1082000;1082000
+"89";"01083000";"NUBANUSIT BK BLW MACDOWELL DAM NR PETERBOROUGH NH";42,8928607;-71,9867469;"01070003";44;"coastal";"red";1083000;1083000
+"90";"01085000";"CONTOOCOOK RIVER NEAR HENNIKER, NH";43,1520237;-71,85730149;"01070003";368;"coastal";"red";1085000;1085000
+"91";"01085500";"CONTOOCOOK R BL HOPKINTON DAM AT W HOPKINTON, NH";43,1928569;-71,7472995;"01070003";427;"coastal";"red";1085500;1085500
+"92";"01086000";"WARNER RIVER AT DAVISVILLE, NH";43,25091159;-71,7322996;"01070003";146;"coastal";"red";1086000;1086000
+"93";"01087000";"BLACKWATER RIVER NEAR WEBSTER, NH";43,2970225;-71,6945212;"01070003";129;"coastal";"red";1087000;1087000
