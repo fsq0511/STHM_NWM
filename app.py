@@ -7,7 +7,8 @@ import plotly.express as px
 # Placeholder for loading necessary data
 # Replace with your actual data loading logic later
 # reach_ids = pd.read_csv('reach_ids.csv')
-nwis_sites = pd.read_csv('data/nwis_sites.csv')
+
+nwis_sites = pd.read_csv(Path(__file__).parent/'data/nwis_sites.csv')
 # nwid_flowlist = pd.read_csv('nwid_flowlist.csv')
 # nwm_flow_fore = pd.read_csv('nwm_flow_fore.csv')
 
