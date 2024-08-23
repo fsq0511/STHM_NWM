@@ -18,8 +18,12 @@ st.set_page_config(
 # Placeholder for loading necessary data
 # Replace with your actual data loading logic later
 # reach_ids = pd.read_csv('reach_ids.csv')
-#
-nwis_sites = pd.read_csv('data/nwis_sites1.csv')
+try:
+    # Make sure the file path is correct
+    df = pd.read_csv('data/nwis_sites1.csv')
+    # st.write(df)
+except FileNotFoundError:
+# nwis_sites = pd.read_csv('data/nwis_sites1.csv')
 # nwid_flowlist = pd.read_csv('nwid_flowlist.csv')
 # nwm_flow_fore = pd.read_csv('nwm_flow_fore.csv')
 
