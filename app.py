@@ -23,6 +23,7 @@ try:
     df = pd.read_csv('data/nwis_sites1.csv')
     # st.write(df)
 except FileNotFoundError:
+    st.error("File not found. Please check the file path.")
 # nwis_sites = pd.read_csv('data/nwis_sites1.csv')
 # nwid_flowlist = pd.read_csv('nwid_flowlist.csv')
 # nwm_flow_fore = pd.read_csv('nwm_flow_fore.csv')
